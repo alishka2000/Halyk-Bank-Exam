@@ -16,7 +16,7 @@ In this folder we have converted the pdf file into console line
     This folder is responsible for recognizing 
     the presence of a live 
     signature on scanned documents and outputs a 
-    jpg file only with a live signature
+    jpg file only with a written signature
 
 ## django_restFramework ##
 And the last one, about Django framework. This project about
